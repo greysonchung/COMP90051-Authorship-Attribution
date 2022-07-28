@@ -9,3 +9,4 @@ Authorship attribution is a task to identify the author of a given document. Thi
  ## Directory
  - `code`: contains notebooks for the project
  - `data`: contains training data and test data in json format
+ - `plot`: contains all EDA plot
